@@ -2,6 +2,8 @@
 
 ## University of Dunaújváros, Hungary FUJIWARA Aya (NeptunCode: EJL8UE)
 
+[This is the video](https://abasami.github.io/uniduna-f-sharp2024_assignment02/screencapture-video.mp4)
+
 ### What I did well
 * I created a client-server type multi-page
 * The numbers entered in the form are transferred to a table when you click a button
